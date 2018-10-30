@@ -18,11 +18,13 @@ Normal Course from basics
 
 1. Downloading Required Softwares To Develop Websites - 
 2. Setting up Free Hosting To Develop Websites - 
-3. Setting up FireFTP To Develop Websites - 
-4. Headings in HTML To Develop Websites - 
-5. Paragraphs in HTML To Develop Websites -
-6. Links in HTML To Develop Websites - 
-7. Images in HTML To Develop Websites - 
+3. Setting up Free Domain To Develop Websites - 
+4. Setting up FireFTP To Develop Websites - 
+5. Headings in HTML To Develop Websites - 
+6. Paragraphs in HTML To Develop Websites -
+7. Links in HTML To Develop Websites -  
+8. Internal Links in HTML To Develop Websites - 
+9. Images in HTML To Develop Websites - 
 Under Construction 
 
 # Project Files !!!
