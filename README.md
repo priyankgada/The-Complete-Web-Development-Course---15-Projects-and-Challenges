@@ -5,7 +5,7 @@ In this course , i will show you how to create Websites using html, php, css, wo
 
 # Committed Changes
 
-Update - 004-30Oct2018-SR
+Update - 004-08Nov2018-SR
 Repository Up !
 TODO-030-SV-EV-UV
 
@@ -16,15 +16,13 @@ Normal Course from basics
 
 # Video Tutorials
 
-1. Downloading Required Softwares To Develop Websites - 
-2. Setting up Free Hosting To Develop Websites - 
-3. Setting up Free Domain To Develop Websites - 
-4. Setting up FireFTP To Develop Websites - 
-5. Headings in HTML To Develop Websites - 
-6. Paragraphs in HTML To Develop Websites -
-7. Links in HTML To Develop Websites -  
-8. Internal Links in HTML To Develop Websites - 
-9. Images in HTML To Develop Websites - 
+1. Introduction to Learn Website Development in Hindi - https://goo.gl/xnpU7Q
+2. Structure of HTML Website - https://goo.gl/7tBC7Y
+3. Hello World in HTML To Develop Websites - https://goo.gl/jPKJV2
+4. Headings with H1 tag To Develop Websites - https://goo.gl/Qeczpb
+5. Paragraphs with P Tag in HTML To Develop Websites - https://goo.gl/GSnXU9
+6. Hyperlinks in HTML To Develop Websites - https://goo.gl/vMbzfn
+
 Under Construction 
 
 # Project Files !!!
